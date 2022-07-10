@@ -1,5 +1,5 @@
-### Olá!! Eu sou Janderson 👋
-## My Name is Janderson 
+## Olá!! Eu sou Janderson 👋
+
 ::
 -  Desenvolvedor Full Stack com tendencia para back-end
 -  Atualmente aprendendo: Python e POO
