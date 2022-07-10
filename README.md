@@ -25,10 +25,11 @@
   <a href = "mailto:jandinsm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://contate.me/jandersongithub" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/janderson-soares-0729a819a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-     ![Snake animation](https://github.com/janderson555/janderson555/blob/output/github-contribution-grid-snake.svg)
+    
  </div>
  <div> 
- 
+  Em obra .. 🛠
+  ![Snake animation](https://github.com/janderson555/janderson555/blob/output/github-contribution-grid-snake.svg)
    [![Generate Datas](https://github.com/Janderson555/Janderson555/actions/workflows/cobrinha.yml/badge.svg)](https://github.com/Janderson555/Janderson555/actions/workflows/cobrinha.yml)
 </div>
   
