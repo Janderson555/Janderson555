@@ -29,7 +29,8 @@
  </div>
  <div> 
   Em obra .. 🛠
+   
   ![Snake animation](https://github.com/Janderson555/Janderson555/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+   
+ </div>
   
