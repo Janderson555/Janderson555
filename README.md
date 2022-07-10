@@ -29,7 +29,7 @@
  </div>
  <div> 
   Em obra .. 🛠
-  ![Snake animation](https://github.com/janderson555/janderson555/blob/output/github-contribution-grid-snake.svg)
-   [![Generate Datas](https://github.com/Janderson555/Janderson555/actions/workflows/cobrinha.yml/badge.svg)](https://github.com/Janderson555/Janderson555/actions/workflows/cobrinha.yml)
+  ![Snake animation](https://github.com/Janderson555/Janderson555/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
   
