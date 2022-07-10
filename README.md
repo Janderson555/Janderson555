@@ -27,5 +27,4 @@
   <a href="https://www.linkedin.com/in/janderson-soares-0729a819a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
     ![Snake animation](https://github.com/Janderson555/Janderson555/blob/output/github-contribution-grid-snake.svg)
-    
   </div>
