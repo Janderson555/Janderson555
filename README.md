@@ -4,7 +4,6 @@
 -  Desenvolvedor Full Stack com tendencia para back-end
 -  Atualmente aprendendo: Python e POO
 
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/Janderson555">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=janderson555&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -23,7 +22,7 @@
   ##
  
 <div> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:jandinsm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://contate.me/jandersongithub" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/janderson-soares-0729a819a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
