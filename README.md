@@ -3,7 +3,6 @@
 ::
 -  Desenvolvedor Full Stack com tendencia para back-end
 -  Atualmente aprendendo: Python e POO
--  Parece um pouco parado por aqui, mas logo logo vai estar tudo bem verdinho 🟩 😁
 
 <div align="center">
   <a href="https://github.com/Janderson555">
