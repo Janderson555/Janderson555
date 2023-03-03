@@ -1,7 +1,7 @@
 ## Olá!! Eu sou Janderson 👋
 
 ::
--  Desenvolvedor Full Stack com tendencia para back-end
+-  Desenvolvedor Full Stack back-end
 -  Atualmente aprendendo: Python e POO
 
 <div align="center">
